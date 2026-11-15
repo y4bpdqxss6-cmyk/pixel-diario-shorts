@@ -1,0 +1,27 @@
+TÍTULO:
+Pac-Man, Space Invaders y 2 secretos más 🕹️
+
+DESCRIPCIÓN:
+Cuatro Shorts de Pixel Diario en un solo video: por qué los fantasmas de Pac-Man no te persiguen igual, el error que hace acelerar a Space Invaders, la paradoja del cumpleaños y los mamuts que seguían vivos cuando ya existían las pirámides.
+
+¿Cuál te sorprendió más? Déjalo en los comentarios 👇
+
+CAPÍTULOS:
+00:00 Hubo mamuts después de las pirámides
+00:40 Space Invaders acelera por un error
+01:19 La paradoja del cumpleaños
+01:57 Los fantasmas de Pac-Man NO te persiguen igual
+
+#videojuegos #PacMan #SpaceInvaders #curiosidades #PixelDiario
+
+ETIQUETAS:
+pixel diario, secretos de videojuegos, curiosidades videojuegos, pac-man, fantasmas pac-man, space invaders, retro gaming, arcade, paradoja del cumpleaños, datos curiosos, mamuts, pirámides de egipto, recopilación, compilación shorts
+
+---
+Notas técnicas
+- 4 Shorts, del más antiguo al más nuevo. Duración total 2:35 (154,9 s).
+- 1920x1080, 30 fps, H.264 + AAC 48 kHz estéreo. Cada Short centrado a altura completa con su propia imagen ampliada y difuminada de fondo.
+- Fundido corto a negro (0,3 s) entre Shorts.
+- Audio normalizado a -14 LUFS (estándar de YouTube). Antes, el de los mamuts sonaba a -14,6 y los otros tres a -22,4 aprox.; ahora todos quedan entre -14 y -15.
+- Capítulos calculados de la duración real: 39,97 s / 38,57 s / 38,70 s / 37,67 s.
+- Los demás Shorts del canal (Mario Kart, Creeper, Konami, etc.) no están en el repo, por eso no entraron.
