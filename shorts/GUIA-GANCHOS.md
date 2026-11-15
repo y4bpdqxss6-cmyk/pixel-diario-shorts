@@ -137,7 +137,7 @@ Cada guion dura 30-38 s y sigue la plantilla. Los datos se revisaron en fuentes 
 | 2 | Nintendo y Van Gogh | Disponible |
 | 3 | Tetris | Disponible |
 | 4 | El Game Boy de la guerra | Disponible |
-| 5 | Lara Croft | Disponible |
+| 5 | Lara Croft | publicado 2026-11-14 |
 | 6 | Fantasmas de Pac-Man | Tema ya publicado el 2026-11-14; no repetir pronto |
 | 7 | Creeper de Minecraft | Versión mejorada de un Short anterior; solo como segunda parte o remake |
 | 8 | Bigote de Mario | Versión mejorada de un Short anterior; solo como segunda parte o remake |
