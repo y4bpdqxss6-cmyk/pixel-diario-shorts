@@ -20,6 +20,8 @@ Resumen obligatorio (aplica aunque no abras la guía):
 10. **3 de cada 4 Shorts sobre videojuegos famosos con un secreto;** serie fija "El juego te ayuda en secreto". Historia y otros temas, máximo 1 de cada 4.
 11. **Antes de escribir, busca outliers:** Shorts del nicho con 3 veces o más las vistas normales de su canal; copia su estructura de gancho, no su tema.
 
+Antes de programar la publicación, sigue también la sección "Aprendizajes de estadísticas" de [shorts/INSTRUCCIONES-SHORTS.md](shorts/INSTRUCCIONES-SHORTS.md) (horas, separación entre Shorts, títulos).
+
 Antes de renderizar, pasa el checklist de la sección "Checklist antes de producir" de la guía, y anota en las notas del Short qué fórmula de gancho usaste.
 
 Antes de elegir tema, si hay guiones en shorts/cola/, usa el más antiguo tal cual y luego muévelo a shorts/cola/usados/.
