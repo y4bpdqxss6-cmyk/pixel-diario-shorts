@@ -14,3 +14,11 @@ Gancho exacto, estructura y ritmo de tomas de esos dos no se pudieron revisar ho
 **Outliers propios (paso 10.3): sin datos.** Metricool (marca 8066507, YouTube, "videos published in range") devolvió los títulos de los Shorts del 6 al 12 nov, pero vistas, duración media y likes vienen vacíos (null) para todos. No se pudo calcular el promedio de 14 días ni detectar un Short con el doble de vistas.
 
 **Guiones nuevos para la cola:** `2026-11-16-1-celeste-salto-en-el-aire.md` (serie "El juego te ayuda en secreto", fórmula el juego te engaña) y `2026-11-16-2-kirby-dibujo-temporal.md` (fórmula iba a ser otra cosa). Se basan en las reglas de la guía y en los títulos del canal que la guía marca como los que funcionaron, no en un outlier verificado.
+
+## 2026-11-16
+
+**Outliers del nicho (paso 10.2): ninguno comprobado.** Se buscó con WebSearch (inglés y español) Shorts de curiosidades y secretos de videojuegos de los últimos 30 días con vistas comparables contra el promedio de su canal; los resultados fueron guías genéricas y artículos de tendencias, sin vistas por video verificables. Por la regla del paso, ningún video se cuenta como outlier este día.
+
+**Outliers propios (paso 10.3): sin datos.** Metricool (marca 8066507, YouTube, "videos published in range", 1–15 nov) devolvió los títulos de los Shorts del 6 al 12 nov, pero vistas (YTVP06) y duración media (YTVP08) vienen vacías (null) para todos. No se pudo calcular el promedio de 14 días.
+
+**Guiones nuevos para la cola:** `2026-11-16-3-doom-ultima-vida.md` (serie "El juego te ayuda en secreto", fórmula el juego te engaña) y `2026-11-16-4-mario-arbustos-cielo.md` (fórmula secreto de diseño). Numerados 3 y 4 porque `2026-11-16-1` y `-2` ya existían. Se basan en las reglas de la guía y en los títulos del canal que funcionaron, no en un outlier verificado.
