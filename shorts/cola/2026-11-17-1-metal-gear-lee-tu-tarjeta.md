@@ -3,7 +3,7 @@
 Categoría: videojuegos famosos con un secreto.
 Fórmula de gancho: **el juego te engaña** (un jefe que "lee tu mente" con un truco de consola).
 
-**Título:** Metal Gear Solid espiaba tu tarjeta de memoria 👁️ (48 caracteres)
+**Título:** Metal Gear Solid espiaba tus partidas 💾 (39 caracteres)
 
 **Primera línea (0-3 s, 10 palabras):** "Metal Gear Solid tiene un jefe que revisa tus partidas guardadas."
 

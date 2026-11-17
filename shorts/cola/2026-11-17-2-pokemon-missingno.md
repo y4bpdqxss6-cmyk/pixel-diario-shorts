@@ -3,7 +3,7 @@
 Categoría: videojuegos famosos con un secreto.
 Fórmula de gancho: **error que se volvió genial**.
 
-**Título:** Pokémon Rojo tenía un error que regalaba objetos 🐟 (47 caracteres)
+**Título:** Pokémon Rojo tenía un error que daba objetos 🐟 (46 caracteres)
 
 **Primera línea (0-3 s, 10 palabras):** "Pokémon Rojo y Azul tenían un error que multiplicaba tus objetos."
 
