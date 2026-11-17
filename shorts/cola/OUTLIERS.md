@@ -22,3 +22,11 @@ Gancho exacto, estructura y ritmo de tomas de esos dos no se pudieron revisar ho
 **Outliers propios (paso 10.3): sin datos.** Metricool (marca 8066507, YouTube, "videos published in range", 1–15 nov) devolvió los títulos de los Shorts del 6 al 12 nov, pero vistas (YTVP06) y duración media (YTVP08) vienen vacías (null) para todos. No se pudo calcular el promedio de 14 días.
 
 **Guiones nuevos para la cola:** `2026-11-16-3-doom-ultima-vida.md` (serie "El juego te ayuda en secreto", fórmula el juego te engaña) y `2026-11-16-4-mario-arbustos-cielo.md` (fórmula secreto de diseño). Numerados 3 y 4 porque `2026-11-16-1` y `-2` ya existían. Se basan en las reglas de la guía y en los títulos del canal que funcionaron, no en un outlier verificado.
+
+## 2026-11-17
+
+**Outliers del nicho (paso 10.2): ninguno comprobado.** Se buscó con WebSearch Shorts recientes de curiosidades y secretos de videojuegos con vistas comparables contra el promedio de su canal. Lo único con datos fue ytstats.co/outliers/Gaming: solo muestra 6 de 30 outliers sin iniciar sesión, sin duración ni formato, y los visibles son videos largos de VanossGaming (no Shorts ni curiosidades). Por la regla del paso, ningún video se cuenta como outlier este día.
+
+**Outliers propios (paso 10.3): sin datos.** Metricool (marca 8066507, métricas YTVP01/YTVP06/YTVP08, 2–16 nov) devolvió filas del 6 al 12 nov con vistas y duración media vacías (null). No se pudo calcular el promedio de 14 días.
+
+**Guiones nuevos para la cola:** `2026-11-17-1-metal-gear-lee-tu-tarjeta.md` (fórmula el juego te engaña) y `2026-11-17-2-pokemon-missingno.md` (fórmula error que se volvió genial). Se descartaron Zelda: Breath of the Wild (protección contra golpe mortal: las fuentes no coinciden en las condiciones exactas) y Portal (embudo hacia el portal: solo una fuente independiente).
