@@ -16,6 +16,7 @@ Sin mascota (motor.py no disponible); zona x 60–310, y 1300–1660 libre de ob
 Escena A: nada en y 300–820 salvo el texto del gancho; nubes deslizándose (una parpadea en verde) y arbustos en el suelo desplazándose desde el cuadro 0.
 Cambios visuales vs. Doom (último video): paleta cielo de día pastel + verde pasto + tinta azul marino (antes HUD nocturno carbón + rojo neón); música cuerda pulsada tipo ukulele + campanita + shaker en Sol mayor 104 bpm (antes arpegio de sintetizador + bombo en Mi menor 128 bpm); gancho que sube desde abajo y rebota con sobrepaso (antes caía desde arriba con temblor); chips píldora blanca con sombra y punto de color (antes marco de HUD con esquinas en escuadra); cámara con inclinación vertical lenta + respiración de escala (antes deriva lateral + empuje + temblor); escena del porqué en plano azul con cuadrícula.
 Voz: Kokoro em_alex, es-419, 1.05. Duración 33,7 s, ~92 palabras. Cierre en bucle: "pisando una nube" ↔ "arbustos en el cielo", y regresa al cielo del inicio. La voz es sintética y no se pudo escuchar desde la sesión.
+Programado en Metricool: 2026-11-18 10:00 (America/New_York), post 432842188. ID de YouTube: lo asigna Metricool al publicar.
 
 ## Checklist antes de producir
 - [x] No empieza con "Hola", "Hoy" ni "¿Sabías que…?" (empieza "Super Mario Bros.").
