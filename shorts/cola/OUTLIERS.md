@@ -30,3 +30,16 @@ Gancho exacto, estructura y ritmo de tomas de esos dos no se pudieron revisar ho
 **Outliers propios (paso 10.3): sin datos.** Metricool (marca 8066507, métricas YTVP01/YTVP06/YTVP08, 2–16 nov) devolvió filas del 6 al 12 nov con vistas y duración media vacías (null). No se pudo calcular el promedio de 14 días.
 
 **Guiones nuevos para la cola:** `2026-11-17-1-metal-gear-lee-tu-tarjeta.md` (fórmula el juego te engaña) y `2026-11-17-2-pokemon-missingno.md` (fórmula error que se volvió genial). Se descartaron Zelda: Breath of the Wild (protección contra golpe mortal: las fuentes no coinciden en las condiciones exactas) y Portal (embudo hacia el portal: solo una fuente independiente).
+
+## 2026-11-17 (noche)
+
+**Outliers del nicho (paso 10.2):** las vistas por video se leyeron de vidiq.com (página de estadísticas del canal, 48 subidas). Solo un canal con datos comprobables: **FaulesGaming** (Shorts de gaming en inglés: rankings, listas, "Should You Play…?"). Mediana de sus 14 Shorts del 18 oct al 15 nov: ~13,190 vistas (media ~21,666).
+1. "The Best Game From Every Studio" (6 nov): 62,030 vistas, ~4.7× la mediana. Fórmula más cercana: comparación / afirmación absoluta (ranking). 
+2. "Games With the Most Swearing" (1 nov): 54,416 vistas, ~4.1×. Fórmula más cercana: número que no cuadra / dato inesperado.
+3. "You Can Only Save ONE Gaming Character" (18 oct): 45,762 vistas, ~3.5×. Fórmula: reto al espectador (no está entre las 8; se anota como referencia, no para copiar).
+Gancho exacto de la primera línea, estructura y ritmo de tomas: **no se pudieron ver** (YouTube no se lee desde la sesión; vidiq solo da título, fecha y vistas). Lo único comprobable es el patrón de título: afirmación directa y absoluta sobre algo que todo gamer conoce, sin pregunta. Los formatos "Should You Play…?" (reseñas) quedaron abajo de la mediana.
+Otros canales: búsquedas web sin vistas por video verificables; no se cuentan.
+
+**Outliers propios (paso 10.3): sin datos.** Metricool (marca 8066507, YTVP01/YTVP06/YTVP08, 3–17 nov) devolvió filas solo del 6 al 12 nov con vistas y duración vacías (null).
+
+**Guiones nuevos para la cola:** `2026-11-18-1-left-4-dead-te-vigila.md` (serie "El juego te ayuda en secreto", fórmula el juego te engaña) y `2026-11-18-2-street-fighter-combos-accidente.md` (fórmula error que se volvió genial). Ambos copian de FaulesGaming solo el patrón de afirmación directa en título y gancho.
