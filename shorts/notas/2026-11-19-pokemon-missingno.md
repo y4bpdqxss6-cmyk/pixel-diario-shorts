@@ -16,6 +16,7 @@ Inspiración (según el guion de la cola): misma fórmula que Space Invaders y e
 Sin mascota (motor.py no disponible); zona x 60–310, y 1300–1660 libre (recorte explícito del dibujo en esa zona). Sin personajes, sprites ni logos: mochila genérica, anciano geométrico, isla simple, bloque de glitch con rectángulos aleatorios, revista genérica "REVISTA 1999". Los nombres solo como texto.
 Escena A: nada en y 300–820 salvo el texto del gancho; mochila latiendo, cajitas saliendo y contador ×1 → ×129 desde el cuadro 0.
 Cambios visuales vs. Metal Gear (último video): paleta mar turquesa + arena + coral + lima (antes noche violeta + cian + magenta); música chiptune de onda cuadrada + bajo triangular + hi-hat en Do mayor 118 bpm (antes colchón de sintetizador en Re menor 92 bpm); gancho que entra deslizándose desde los lados (antes llegaba desde grande con parpadeo); chips en píldora de color lleno con cuadrito pixelado (antes rectángulo oscuro con borde neón); cámara con paneo horizontal + golpe de zoom en cada tiempo (antes balanceo de giro + empuje); fondo de cuadritos que bajan (antes partículas y líneas de escaneo); escena de la respuesta en plano coral con cuadrícula.
+Programado en Metricool: 2026-11-19 10:00 (America/New_York), post 434216720. ID de YouTube: lo asigna Metricool al publicar.
 Voz: Kokoro em_alex, es-419, 1.05. Cierre en bucle: "multiplicaba tus objetos" ↔ "un regalo para tu mochila", y regresa a la mochila con ×129. La voz es sintética y no se pudo escuchar desde la sesión.
 
 ## Checklist antes de producir
