@@ -16,6 +16,7 @@ Inspiración (según el guion de la cola): mismo tipo de gancho que Celeste/Cras
 Sin mascota (motor.py no disponible); zona x 60–310, y 1300–1660 libre (el globo de diálogo y el piso se recortaron para no entrar). Sin personajes ni logos: ojo geométrico genérico, tarjeta de memoria gris sin marcas, control y consola genéricos. Los nombres solo como texto.
 Escena A: nada en y 300–820 salvo el texto del gancho; tarjeta latiendo, ondas y ojo abriéndose desde el cuadro 0.
 Cambios visuales vs. Mario nubes (último video): paleta noche violeta + cian neón + magenta (antes cielo pastel + verde pasto); música colchón de sintetizador con trémolo + pulso grave + campana en Re menor 92 bpm (antes ukulele + shaker en Sol mayor 104 bpm); gancho que llega desde grande con parpadeo de interferencia (antes subía desde abajo con rebote); chips rectangulares oscuros con borde neón y barra lateral (antes píldora blanca); cámara con balanceo de giro + empuje continuo por escena y temblor cuando vibra el control (antes inclinación vertical + respiración); escena de la respuesta en plano cian con rayas diagonales.
+Programado en Metricool: 2026-11-19 16:00 (America/New_York), post 433663865. ID de YouTube: lo asigna Metricool al publicar.
 Voz: Kokoro em_alex, es-419, 1.05. Duración 32,6 s, 89 palabras. Cierre en bucle: "leía tus partidas guardadas" ↔ "revisa tus partidas guardadas", y regresa al ojo sobre la tarjeta. La voz es sintética y no se pudo escuchar desde la sesión.
 
 ## Checklist antes de producir
