@@ -43,3 +43,14 @@ Otros canales: búsquedas web sin vistas por video verificables; no se cuentan.
 **Outliers propios (paso 10.3): sin datos.** Metricool (marca 8066507, YTVP01/YTVP06/YTVP08, 3–17 nov) devolvió filas solo del 6 al 12 nov con vistas y duración vacías (null).
 
 **Guiones nuevos para la cola:** `2026-11-18-1-left-4-dead-te-vigila.md` (serie "El juego te ayuda en secreto", fórmula el juego te engaña) y `2026-11-18-2-street-fighter-combos-accidente.md` (fórmula error que se volvió genial). Ambos copian de FaulesGaming solo el patrón de afirmación directa en título y gancho.
+
+## 2026-11-18 (noche)
+
+**Outliers del nicho (paso 10.2):** vistas leídas de vidiq.com (lista de subidas del canal, vistas al 17 nov 2026).
+1. **Gaming In The Wild** (Shorts de juegos indie en inglés), "An indie horror 'modern classic' with 12 Steam reviews" (2 nov 2026, 0:50): 4,000 vistas contra una mediana de ~1,180 en sus 37 Shorts del 19 oct al 15 nov (~3.4×). Es el único de ese canal arriba de 2×; el segundo, "Would you play a horror cooking game?", tiene 2,127 (~1.8×, no cuenta). Fórmula más cercana: **número que no cuadra** / contradicción ("clásico moderno" con solo 12 reseñas). Estructura comprobable: título corto con una contradicción y un número concreto; Short de menos de 1 minuto (los de más de 2 minutos de ese canal quedaron abajo de la mediana). Gancho exacto de la primera línea y ritmo de tomas: **no se pudieron ver** (YouTube no se lee desde la sesión).
+2. **Gaming Fact** (vidiq): la página solo da datos de canal de mayo 2024, sin vistas por video. No cuenta.
+3. Otros canales de curiosidades: las búsquedas no dieron vistas por video verificables. No cuentan.
+
+**Outliers propios (paso 10.3): sin datos.** Metricool (marca 8066507, YTVP01/YTVP06/YTVP08, 4–18 nov) devolvió filas solo del 6 al 12 nov con vistas y duración vacías (null).
+
+**Guiones nuevos para la cola:** `2026-11-19-1-silent-hill-niebla.md` (fórmula secreto de diseño) y `2026-11-19-2-gta-policia-error.md` (fórmula error que se volvió genial). Ambos copian del outlier de Gaming In The Wild solo la estructura de contradicción en título y gancho.
