@@ -54,3 +54,15 @@ Otros canales: búsquedas web sin vistas por video verificables; no se cuentan.
 **Outliers propios (paso 10.3): sin datos.** Metricool (marca 8066507, YTVP01/YTVP06/YTVP08, 4–18 nov) devolvió filas solo del 6 al 12 nov con vistas y duración vacías (null).
 
 **Guiones nuevos para la cola:** `2026-11-19-1-silent-hill-niebla.md` (fórmula secreto de diseño) y `2026-11-19-2-gta-policia-error.md` (fórmula error que se volvió genial). Ambos copian del outlier de Gaming In The Wild solo la estructura de contradicción en título y gancho.
+
+## 2026-11-19 (noche)
+
+**Outliers del nicho (paso 10.2): ninguno nuevo comprobado.** Vistas leídas de vidiq.com (listas de subidas, vistas al 17 nov 2026).
+1. **FaulesGaming**: mediana de 13 Shorts del 21 oct al 15 nov ≈ 17,147 vistas (3× ≈ 51.4 k). Solo pasan los ya registrados ("The Best Game From Every Studio" 62,030, "Games With the Most Swearing" 54,416). El mejor nuevo, "The Only 10/10 Video Game Sequels Ever Made" (13 nov, 0:32), tiene 25,480 (~1.5×): no cuenta. Sus éxitos grandes ("Your Age / Battery % / Birth Month Is…", 236–593 k) son de agosto-septiembre, fuera de la ventana de 30 días.
+2. **Gaming In The Wild**: mediana ≈ 1,150 (≈30 Shorts, 20 oct–15 nov). Solo pasa el ya registrado ("12 Steam reviews", 4,000). "Would you play a horror cooking game?" (2,127, ~1.8×) no cuenta.
+3. DidYouKnowGaming, Gaming Fact, Polygon, GVG y canales en español: sin vistas por video verificables desde la sesión. No cuentan.
+Gancho exacto, duración y ritmo de tomas: no se pudieron ver (YouTube no se lee desde la sesión).
+
+**Outliers propios (paso 10.3): sin datos.** Metricool (marca 8066507, YTVP01/YTVP06/YTVP08, 5–19 nov) devolvió filas solo del 6 al 12 nov con vistas y duración vacías (null).
+
+**Guiones nuevos para la cola:** `2026-11-20-1-mario-wii-juega-por-ti.md` (serie "El juego te ayuda en secreto", fórmula el juego te engaña) y `2026-11-20-2-donkey-kong-popeye.md` (fórmula iba a ser otra cosa). Ambos mantienen el patrón de afirmación directa ya registrado de FaulesGaming.
