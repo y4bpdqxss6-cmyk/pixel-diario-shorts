@@ -66,3 +66,11 @@ Gancho exacto, duración y ritmo de tomas: no se pudieron ver (YouTube no se lee
 **Outliers propios (paso 10.3): sin datos.** Metricool (marca 8066507, YTVP01/YTVP06/YTVP08, 5–19 nov) devolvió filas solo del 6 al 12 nov con vistas y duración vacías (null).
 
 **Guiones nuevos para la cola:** `2026-11-20-1-mario-wii-juega-por-ti.md` (serie "El juego te ayuda en secreto", fórmula el juego te engaña) y `2026-11-20-2-donkey-kong-popeye.md` (fórmula iba a ser otra cosa). Ambos mantienen el patrón de afirmación directa ya registrado de FaulesGaming.
+
+## 2026-11-20 (noche)
+
+**Outliers del nicho (paso 10.2): ninguno nuevo comprobado.** En esta corrida no se consiguieron vistas por video nuevas verificables (YouTube no se lee desde la sesión y las búsquedas web no dan vistas por Short); las tres corridas anteriores en vidiq.com solo confirmaron los ya registrados de FaulesGaming ("The Best Game From Every Studio" ~4.7×, "Games With the Most Swearing" ~4.1×) y Gaming In The Wild ("12 Steam reviews" ~3.4×). No se cuenta ninguno nuevo. Gancho exacto, duración y ritmo de tomas: no verificables.
+
+**Outliers propios (paso 10.3): sin datos.** Metricool (marca 8066507, YTVP01/YTVP06/YTVP08, 6–20 nov) devolvió filas solo del 6 al 12 nov con vistas y duración vacías (null).
+
+**Guiones nuevos para la cola:** `2026-11-21-1-max-payne-juega-mal.md` (serie "El juego te ayuda en secreto", fórmula el juego te engaña) y `2026-11-21-2-sims-incendio.md` (fórmula secreto de diseño). Mantienen el patrón de afirmación directa (FaulesGaming) y de contradicción en el título (Gaming In The Wild).
