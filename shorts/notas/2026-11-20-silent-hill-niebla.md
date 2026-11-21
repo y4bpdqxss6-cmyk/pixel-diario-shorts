@@ -16,6 +16,7 @@ Inspiración (según el guion de la cola): outlier de Gaming In The Wild "An ind
 Sin mascota (motor.py no disponible); zona x 60–310, y 1300–1660 libre (recorte explícito del dibujo). Sin personajes, monstruos ni logos: calle genérica con casas de techo rojo y postes, silueta humana borrosa sin rasgos, consola genérica (caja oscura con ranura y luz), botón "NIEBLA = MIEDO", engrane "PROBLEMA", edificios grises simples con "¡POP!". Los nombres solo como texto.
 Escena A: nada en y 300–820 salvo el texto del gancho; la calle con niebla moviéndose y la silueta cruzando desde el cuadro 0.
 Cambios visuales vs. Street Fighter II (último video): paleta gris niebla + rojo óxido + hueso (antes morado arcade + magenta + cian + amarillo); música ambiente en Re menor 70 bpm con colchón grave, viento y caja de música (antes arcade Mi menor 128 bpm); gancho que "respira" despacio con niebla detrás (antes golpe con sacudida); chips de placa de metal oxidado con remaches (antes globo de cómic); cámara con acercamiento lento continuo + deriva diagonal (antes golpe de zoom); fondo de franjas de niebla que se desplazan (antes puntos de trama); escena del giro en plano claro "sin niebla".
+Programado en Metricool: 2026-11-21 16:00 (America/New_York), post 436292988. ID de YouTube: lo asigna Metricool al publicar.
 Voz: Kokoro em_alex, es-419, 1.05. Cierre en bucle: "lo que la consola no podía mostrarte" ↔ "una consola que no podía", y regresa a la calle con niebla. La voz es sintética y no se pudo escuchar desde la sesión.
 
 ## Checklist antes de producir
