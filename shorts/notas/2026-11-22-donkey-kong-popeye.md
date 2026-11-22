@@ -15,7 +15,7 @@ Inspiración (según el guion de la cola): patrón FaulesGaming (afirmación dir
 Sin mascota (motor.py no disponible); zona x 60–310, y 1300–1660 libre (recorte explícito del dibujo). Sin personajes ni diseños de Nintendo ni de Popeye: vigas rojas genéricas con celosía, barriles genéricos, lata verde lisa sin etiqueta, siluetas de cuadritos genéricas, contrato genérico con sellos "SIN PERMISO" / "APROBADO". Los nombres solo como texto.
 Escena A: nada en y 300–820 salvo el texto del gancho; el barril rodando por las vigas y la lata temblando desde el cuadro 0.
 Cambios visuales vs. Mario Wii (último video): paleta arcade nocturna (morado casi negro + rojo neón + cian; antes día turquesa + pasto); fondo con estrellas, rejilla de neón en perspectiva y líneas de barrido (antes sol y nubes); música en Mi menor 118 bpm con melodía de pulso y bajo de sierra (antes chiptune Do mayor 140 bpm); gancho como letrero de neón con borde parpadeante y pulso de escala (antes placas doradas/verdes con palabras que rebotan); chips como boletos de arcade con muescas (antes píldoras); cámara con empuje lento e inclinación alterna (antes paneo lateral).
-Programado en Metricool: PENDIENTE. ID de YouTube: lo asigna Metricool al publicar.
+Programado en Metricool: 2026-11-22 10:00 (America/New_York), post 437557326. ID de YouTube: lo asigna Metricool al publicar.
 Voz: Kokoro em_alex, es-419, 1.05. Cierre en bucle: "el gorila más famoso de Nintendo… era el villano de Popeye" ↔ "Donkey Kong iba a ser un juego de Popeye", y regresa a las vigas, el barril y la lata. La voz es sintética y no se pudo escuchar desde la sesión.
 
 ## Checklist antes de producir
