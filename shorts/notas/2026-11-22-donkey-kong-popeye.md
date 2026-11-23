@@ -50,3 +50,5 @@ TÍTULO: Donkey Kong iba a ser un juego de Popeye 🥫
 DESCRIPCIÓN: El gorila más famoso de Nintendo tiene un pasado que casi nadie conoce. #DonkeyKong #Nintendo #videojuegos #curiosidades #Shorts
 COMENTARIO FIJADO: ¿Qué personaje crees que casi fue otro?
 ETIQUETAS: donkey kong, donkey kong 1981, popeye, jumpman, mario, shigeru miyamoto, nintendo, arcade, secretos de videojuegos, curiosidades gamer
+
+**NO PUBLICADO — límite de Metricool.** Revisión 2026-11-23: el post quedó en ERROR ("You have reached your Metricool account limit."). Reprogramar cuando se resuelva el límite.

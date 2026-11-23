@@ -100,3 +100,38 @@
 **Cambios aplicados:** reglas de "Aprendizajes de estadísticas" actualizadas (datos hasta 16 nov, regla de fin de semana, reglas de horario confirmadas). No existe `shorts/temas.md`; no se reordenaron temas. Horas de las tareas sin cambios.
 
 **Próxima revisión:** comparar vistas/día de 17–23 nov contra ~1,955/día y subs contra 25; si Metricool ya da vistas por video, top/bottom por fórmula de gancho (hay 3 de "el juego te engaña" para comparar).
+
+## 2026-11-23 — Revisión automática (Metricool, marca 8066507)
+
+**⚠️ Incidente: 4 Shorts NO se publicaron.** Metricool marca `ERROR — "You have reached your Metricool account limit."` en todos los programados desde el 22 nov:
+Donkey Kong (22 nov 10:00, post 437557326) · Mario Wii (22 nov 16:00, post 437189678) · Los Sims (23 nov 10:00, post 438788149) · Max Payne (23 nov 16:00, post 438178468). Los últimos que sí salieron fueron GTA y Silent Hill (21 nov). El canal lleva 2 días sin Shorts nuevos. Hay que revisar el plan/límite de Metricool (Dany); reprogramar sin arreglar el límite fallará igual.
+
+**Limitaciones:** sin `add_repo` en la sesión (no se adjuntó `noticias-bots`); cruce con `shorts/notas/`. Metricool sigue con métricas por video en null y fuentes de tráfico vacías. Vistas diarias hasta el **20 nov**; suscriptores hasta el 23 nov.
+
+**Canal (datos diarios nuevos):**
+
+| Día | Vistas | Subs ganados | Subs perdidos |
+|---|---|---|---|
+| 17 nov (mar) | 2,439 | 3 | 1 |
+| 18 nov (mié) | 2,387 | 2 | 0 |
+| 19 nov (jue) | 1,508 | 1 | 0 |
+| 20 nov (vie) | 2,547 | 1 | 0 |
+
+- Vistas 6–20 nov (todo lo disponible del periodo de 28 días): **36,148**. Últimos 7 días con datos (14–20 nov): **14,857** (~2,120/día) vs ~1,955/día en la revisión anterior (**+8 %**). 17–20 nov: ~2,220/día.
+- Suscriptores: **30** (23 nov) vs 25 el 19 nov → +5 en 4 días (~1.25/día, algo más lento que el tramo anterior). 26 (20 nov), 27 (21), 28 (22), 30 (23).
+- Conversión 17–20 nov: ~0.8 subs netos por cada 1,000 vistas (7 ganados − 1 perdido / 8,881). Sigue baja.
+
+**Publicado (sí salió) desde la última revisión:** Left 4 Dead (20 nov 16:00, serie) · Street Fighter II (20 nov 10:00) · Silent Hill (21 nov 16:00) · GTA (21 nov 10:00). Todos de videojuegos, 10:00/16:00, reglas de horario cumplidas.
+
+**Ritmo hacia la meta (1,000 subs + 10 M vistas de Shorts en 90 días):**
+- Vistas: a ~2,120/día ≈ 191 k en 90 días = **1.9 %** de 10 M (harían falta ~111 k/día, ×52).
+- Subs: faltan 970; a ~1.4 netos/día (15 → 30 entre 12 y 23 nov) ≈ 23 meses.
+
+**Hallazgos:**
+1. **El incidente de Metricool es lo más grave:** cada día sin publicar corta el único motor de crecimiento del canal.
+2. **Las vistas se estabilizaron en ~2,100–2,500/día entre semana** con 2 Shorts diarios de videojuegos; jueves 19 nov flojo (1,508) sin causa visible (sin datos por video).
+3. **Horario confirmado otra vez:** Metricool (23–30 nov) marca 16:00 como pico todos los días y 10:00 como segundo; sáb/dom ≈ la mitad. **Sin cambio de hora** en las tareas.
+
+**Cambios aplicados:** reglas de "Aprendizajes de estadísticas" actualizadas (nueva regla: verificar el estado del post tras programar y qué hacer ante "account limit"). Notas de los 4 Shorts fallidos marcadas como NO PUBLICADO. No existe `shorts/temas.md`. Horas de las tareas sin cambios.
+
+**Próxima revisión:** confirmar que los 4 Shorts fallidos se publicaron (o reprogramaron) y que no hay nuevos ERROR; comparar vistas/día contra ~2,120 y subs contra 30.

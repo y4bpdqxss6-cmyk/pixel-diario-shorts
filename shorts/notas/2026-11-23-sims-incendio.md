@@ -50,3 +50,5 @@ TÍTULO: Los Sims nacieron de una casa quemada 🔥
 DESCRIPCIÓN: El juego de construir casas más famoso tiene un origen que casi nadie conoce. #LosSims #TheSims #videojuegos #curiosidades #Shorts
 COMENTARIO FIJADO: ¿Qué fue lo primero que construías en Los Sims?
 ETIQUETAS: los sims, the sims, the sims 2000, will wright, maxis, simuladores, origen de los sims, secretos de videojuegos, curiosidades gamer, historia de los videojuegos
+
+**NO PUBLICADO — límite de Metricool.** Revisión 2026-11-23: el post quedó en ERROR ("You have reached your Metricool account limit."). Reprogramar cuando se resuelva el límite.
