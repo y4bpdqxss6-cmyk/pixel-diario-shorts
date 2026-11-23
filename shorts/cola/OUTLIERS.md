@@ -82,3 +82,11 @@ Gancho exacto, duración y ritmo de tomas: no se pudieron ver (YouTube no se lee
 **Outliers propios (paso 10.3): sin datos.** Metricool (marca 8066507, YTVP01/YTVP06/YTVP08, 7–21 nov) devolvió filas solo del 7 al 12 nov con vistas y duración vacías (null).
 
 **Guiones nuevos para la cola:** `2026-11-22-1-last-of-us-ellie-invisible.md` (serie "El juego te ayuda en secreto", fórmula el juego te engaña; se descartó BioShock "el primer tiro falla" porque ya salió el 6-12 nov) y `2026-11-22-2-zelda-nombre-prestado.md` (fórmula secreto de diseño). Mantienen el patrón de afirmación directa (FaulesGaming) y de contradicción en el título (Gaming In The Wild).
+
+## 2026-11-22 (noche)
+
+**Outliers del nicho (paso 10.2): ninguno nuevo comprobado.** vidiq.com (FaulesGaming) sigue con la foto al 17 nov 2026 (última subida 15 nov): 12 Shorts del 23 oct al 15 nov, mediana ≈ 17,243 vistas (3× ≈ 51.7 k). Solo pasan los ya registrados: "The Best Game From Every Studio" (6 nov, 0:51) 62,030 (~3.6×) y "Games With the Most Swearing" (1 nov, 0:51) 54,416 (~3.2×). "The Hardest Games of All Time" (23 oct, 0:37) 28,233 (~1.6×) no cuenta. Otros canales: sin vistas por Short verificables desde la sesión; no cuentan. Gancho exacto, duración real vista y ritmo de tomas: no verificables (YouTube no se lee desde la sesión).
+
+**Outliers propios (paso 10.3): sin datos.** Metricool (marca 8066507, YTVP01/YTVP06/YTVP08, 8–22 nov) devolvió filas solo del 8 al 12 nov con vistas y duración vacías (null).
+
+**Guiones nuevos para la cola:** `2026-11-23-1-assassins-creed-vida-falsa.md` (serie "El juego te ayuda en secreto", fórmula el juego te engaña) y `2026-11-23-2-minecraft-mas-grande-que-la-tierra.md` (fórmula número que no cuadra). Mantienen el patrón de afirmación directa (FaulesGaming) y de contradicción con número en el título (Gaming In The Wild).
