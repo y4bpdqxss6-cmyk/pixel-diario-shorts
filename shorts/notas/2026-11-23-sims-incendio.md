@@ -16,7 +16,7 @@ Inspiración (según el guion de la cola): afirmación directa de FaulesGaming (
 Sin mascota (motor.py no disponible); zona x 60–310, y 1300–1660 libre (recorte explícito). Sin Sims, rombo, logo ni interfaz; nada de Will Wright dibujado: casitas, llamas, colinas, muebles, plano genérico. Nombres solo como texto.
 Escena A: nada en y 300–820 salvo el texto del gancho; casita con llamas y humo moviéndose desde el cuadro 0.
 Cambios visuales vs. Max Payne (último video): paleta plano de arquitecto (azul petróleo + naranja fuego + crema; antes noir azul pizarra + ámbar); fondo de cuadrícula de plano que se desliza con chispas que suben (antes edificios y lluvia); música "constructor" en Fa mayor 100 bpm con marimba y bombo suave (antes noir Re menor 88 bpm); gancho como cartel que flota suave con brillo de fuego (antes expediente con sacudida); chips como etiquetas redondeadas con chincheta y borde punteado (antes cinta adhesiva); cámara con empuje lento hacia adentro sin vaivén (antes cámara en mano).
-Programado en Metricool: 2026-11-23 10:00 (America/New_York). ID de YouTube: lo asigna Metricool al publicar.
+Programado en Metricool: 2026-11-23 10:00 (America/New_York), post 438788149. ID de YouTube: lo asigna Metricool al publicar.
 Voz: Kokoro em_alex, es-419, 1.05. Cierre en bucle: "cada casa que construyes en Los Sims… empezó con una casa quemada" ↔ "se le quemó la casa", y regresa a la casita en llamas y al gancho. La voz es sintética y no se pudo escuchar desde la sesión.
 
 ## Checklist antes de producir
