@@ -90,3 +90,13 @@ Gancho exacto, duración y ritmo de tomas: no se pudieron ver (YouTube no se lee
 **Outliers propios (paso 10.3): sin datos.** Metricool (marca 8066507, YTVP01/YTVP06/YTVP08, 8–22 nov) devolvió filas solo del 8 al 12 nov con vistas y duración vacías (null).
 
 **Guiones nuevos para la cola:** `2026-11-23-1-assassins-creed-vida-falsa.md` (serie "El juego te ayuda en secreto", fórmula el juego te engaña) y `2026-11-23-2-minecraft-mas-grande-que-la-tierra.md` (fórmula número que no cuadra). Mantienen el patrón de afirmación directa (FaulesGaming) y de contradicción con número en el título (Gaming In The Wild).
+
+## 2026-11-23 (noche)
+
+**Outliers del nicho (paso 10.2): ninguno nuevo comprobado.** vidiq.com (FaulesGaming, foto al 22 nov 2026, 11 Shorts del 25 oct al 15 nov): mediana 18,023 vistas (3× ≈ 54.1 k). Solo pasan los ya registrados, con vistas actualizadas: "The Best Game From Every Studio" (6 nov, 0:51) 77,738 (~4.3×) y "Games With the Most Swearing" (1 nov, 0:51) 55,481 (~3.1×). "The Only 10/10 Video Game Sequels Ever Made" (13 nov, 0:32) subió a 36,949 (~2.1×): no cuenta. Los "Should You Play…?" (0:15) siguen muy abajo (3,930–8,051). Otros canales (búsqueda web en inglés y español): sin vistas por Short verificables; no cuentan. Gancho exacto, duración real vista y ritmo de tomas: no verificables (YouTube no se lee desde la sesión).
+
+**Outliers propios (paso 10.3): sin datos.** Metricool (marca 8066507, YTVP01/YTVP06/YTVP08, 9–23 nov) devolvió filas solo del 9 al 12 nov con vistas y duración vacías (null).
+
+**Aprendizajes diarios:** se creó la sección al final de `GUIA-GANCHOS.md` con 3 reglas respaldadas por los 3 outliers registrados (FaulesGaming ×2 + Gaming In The Wild ×1).
+
+**Guiones nuevos para la cola:** `2026-11-24-1-fortnite-bots.md` (serie "El juego te ayuda en secreto", fórmula el juego te engaña; se descartó Halo "balas que se curvan" porque las fuentes no lo confirman en el primer Halo) y `2026-11-24-2-playstation-era-de-nintendo.md` (fórmula iba a ser otra cosa).

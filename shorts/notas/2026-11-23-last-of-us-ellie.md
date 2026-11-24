@@ -50,3 +50,5 @@ TÍTULO: The Last of Us vuelve invisible a Ellie 👀
 DESCRIPCIÓN: The Last of Us te hace un favor enorme cada vez que te escondes, y nunca te lo dijo. Serie: El juego te ayuda en secreto. #TheLastOfUs #Ellie #videojuegos #curiosidades #Shorts
 COMENTARIO FIJADO: ¿Te diste cuenta alguna vez?
 ETIQUETAS: the last of us, ellie, joel, naughty dog, playstation, sigilo, inteligencia artificial, secretos de videojuegos, el juego te ayuda en secreto, curiosidades gamer
+
+Programado en Metricool: 2026-11-24 16:00 (America/New_York), post 439700255, estado PENDING al programar. ID de YouTube: lo asigna Metricool al publicar. Ojo: los 4 Shorts anteriores (22-23 nov) fallaron al publicarse con "You have reached your Metricool account limit"; si este también falla, reprogramar cuando Dany resuelva el límite.

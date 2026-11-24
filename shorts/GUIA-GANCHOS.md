@@ -222,3 +222,11 @@ Cada guion dura 30-38 s y sigue la plantilla. Los datos se revisaron en fuentes 
 - Game Boy de la guerra: Nintendo Life (julio de 2023), sobre el retiro del Game Boy de la Guerra del Golfo.
 - Lara Croft: Shacknews, "25 things you probably didn't know about Tomb Raider".
 - Pac-Man: ver las fuentes en `shorts/notas/2026-11-14-fantasmas.md`.
+
+## Aprendizajes diarios de outliers
+
+Solo reglas respaldadas por 3 outliers o más (ver `shorts/cola/OUTLIERS.md`). Máximo 12.
+
+1. **Título como afirmación directa, nunca pregunta.** Los 3 outliers registrados son afirmaciones ("The Best Game From Every Studio", "Games With the Most Swearing", "An indie horror 'modern classic' with 12 Steam reviews"); los títulos en pregunta del mismo canal ("Should You Play…?") quedaron muy abajo de la mediana. — Agregada 2026-11-23 · 3 outliers.
+2. **Una palabra extrema o una contradicción en el título** (lo mejor / lo más / "clásico" con solo 12 reseñas): es lo que tienen en común los 3 outliers. En español: "nunca", "solo", "más que", o dos cosas que no deberían ir juntas ("PlayStation" + "Nintendo"). — Agregada 2026-11-23 · 3 outliers.
+3. **No recortes a 15 s.** Los 3 outliers duran 0:50–0:51 y los Shorts de 0:15 de esos canales quedaron abajo de la mediana; dentro de la regla del canal (20-40 s), apunta a 30-40 s con un solo dato bien contado. — Agregada 2026-11-23 · 3 outliers.
