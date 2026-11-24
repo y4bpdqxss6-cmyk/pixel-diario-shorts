@@ -50,3 +50,5 @@ TÍTULO: Zelda se llama así por la esposa de un autor 📚
 DESCRIPCIÓN: El nombre de la princesa más famosa de Nintendo no se inventó: alguien lo tomó prestado de una mujer real. #Zelda #Nintendo #videojuegos #curiosidades #Shorts
 COMENTARIO FIJADO: ¿Qué personaje crees que tiene el nombre más raro?
 ETIQUETAS: the legend of zelda, zelda, princesa zelda, miyamoto, zelda fitzgerald, el gran gatsby, nintendo, hyrule historia, secretos de videojuegos, curiosidades gamer
+
+Programado en Metricool: 2026-11-24 10:00 (America/New_York), post 440270287, estado PENDING al crearlo. ID de YouTube: lo asigna Metricool al publicar.
