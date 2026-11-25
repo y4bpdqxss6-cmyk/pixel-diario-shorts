@@ -48,3 +48,6 @@ TÍTULO: Assassin's Creed te miente con tu vida ❤️
 DESCRIPCIÓN: Esa rayita roja de vida no es lo que parece. Serie: El juego te ayuda en secreto. #AssassinsCreed #Doom #videojuegos #curiosidades #Shorts
 COMENTARIO FIJADO: ¿En qué juego sobreviviste con una rayita?
 ETIQUETAS: assassin's creed, assassin's creed origins, doom, ubisoft, barra de vida, secretos de videojuegos, el juego te ayuda en secreto, curiosidades gamer, diseño de videojuegos, trucos de desarrolladores
+
+Programado en Metricool: 2026-11-25 16:00 (America/New_York), post 441148979, estado PENDING al crearlo. ID de YouTube: lo asigna Metricool al publicar.
+**Ojo:** al revisar getScheduledPosts, los 6 Shorts del 22 al 24 nov (incluido Zelda de hoy a las 10:00) quedaron en ERROR "You have reached your Metricool account limit"; este puede fallar igual a la hora de publicar.
