@@ -100,3 +100,13 @@ Gancho exacto, duración y ritmo de tomas: no se pudieron ver (YouTube no se lee
 **Aprendizajes diarios:** se creó la sección al final de `GUIA-GANCHOS.md` con 3 reglas respaldadas por los 3 outliers registrados (FaulesGaming ×2 + Gaming In The Wild ×1).
 
 **Guiones nuevos para la cola:** `2026-11-24-1-fortnite-bots.md` (serie "El juego te ayuda en secreto", fórmula el juego te engaña; se descartó Halo "balas que se curvan" porque las fuentes no lo confirman en el primer Halo) y `2026-11-24-2-playstation-era-de-nintendo.md` (fórmula iba a ser otra cosa).
+
+## 2026-11-24 (noche)
+
+**Outliers del nicho (paso 10.2): ninguno nuevo comprobado.** vidiq.com (FaulesGaming, foto "as of 2026-11-22", 44 Shorts del 30 jul al 15 nov; nada publicado después del 15 nov). Ventana de 30 días (25 oct–15 nov, 11 Shorts): mediana 18,023 vistas (3× ≈ 54.1 k). Solo pasan los ya registrados: "The Best Game From Every Studio" (6 nov, 0:51) 77,738 (~4.3×) y "Games With the Most Swearing" (1 nov, 0:51) 55,481 (~3.1×). Contexto (más viejos que 30 días, no cuentan): los grandes del canal son títulos "tu X es el juego que…" ("Your Age Is The Game You Have To Beat Without Dying", 2 ago, 0:34, 594,928 ≈ 19× la mediana de la muestra de 30,632; "Your Age Is The Game You Have To Play For The Rest Of Your Life", 339,263; "Your Favorite Gaming Genre Is Your Superpower", 258,924; "Your Battery Percentage Is The Boss…", 236,753) y "Best Open World Game From Every Year" (155,166). Otros canales (búsqueda web en inglés y español): sin vistas por Short verificables desde la sesión; no cuentan. Gancho exacto, texto en pantalla, duración vista y ritmo de tomas: no verificables (YouTube no se lee desde la sesión).
+
+**Outliers propios (paso 10.3): sin datos.** Metricool (marca 8066507, YTVP01/YTVP06/YTVP08, 10–24 nov) devolvió filas solo del 10 al 12 nov con vistas vacías (null). Además, los 6 Shorts programados del 22 al 24 nov quedaron en ERROR "You have reached your Metricool account limit" (no se publicaron).
+
+**Aprendizajes diarios:** sin cambios (no hay outliers nuevos en la ventana de 30 días; las 3 reglas siguen con 3 outliers).
+
+**Guiones nuevos para la cola:** `2026-11-25-1-portal-caja-companera.md` (serie "El juego te ayuda en secreto", fórmula el juego te engaña) y `2026-11-25-2-eggman-casi-fue-sonic.md` (fórmula iba a ser otra cosa). Se descartó "Rhydon fue el primer Pokémon" (las fuentes no coinciden: Sugimori nombra a Rhydon, Clefairy y Lapras como los primeros) y "Sonic iba a ser un conejo" (solo una fuente).
