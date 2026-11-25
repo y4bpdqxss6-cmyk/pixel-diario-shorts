@@ -48,3 +48,6 @@ TÍTULO: Minecraft es más grande que la Tierra 🌍
 DESCRIPCIÓN: Un mapa de bloques que no cabe en nuestro planeta. Y casi nadie ha visto su orilla. #Minecraft #Mojang #videojuegos #curiosidades #Shorts
 COMENTARIO FIJADO: ¿Cuál es lo más lejos que has caminado en Minecraft?
 ETIQUETAS: minecraft, mundo de minecraft, borde del mundo, world border, mojang, tamaño de minecraft, minecraft vs la tierra, secretos de videojuegos, curiosidades gamer, mapas gigantes
+
+Programado en Metricool: 2026-11-25 10:00 (America/New_York), post 441734139, estado PENDING al crearlo. ID de YouTube: lo asigna Metricool al publicar.
+**Ojo:** los Shorts del 22 al 24 nov fallaron con "You have reached your Metricool account limit"; este puede fallar igual a la hora de publicar.
