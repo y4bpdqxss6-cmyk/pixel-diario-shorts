@@ -110,3 +110,17 @@ Gancho exacto, duración y ritmo de tomas: no se pudieron ver (YouTube no se lee
 **Aprendizajes diarios:** sin cambios (no hay outliers nuevos en la ventana de 30 días; las 3 reglas siguen con 3 outliers).
 
 **Guiones nuevos para la cola:** `2026-11-25-1-portal-caja-companera.md` (serie "El juego te ayuda en secreto", fórmula el juego te engaña) y `2026-11-25-2-eggman-casi-fue-sonic.md` (fórmula iba a ser otra cosa). Se descartó "Rhydon fue el primer Pokémon" (las fuentes no coinciden: Sugimori nombra a Rhydon, Clefairy y Lapras como los primeros) y "Sonic iba a ser un conejo" (solo una fuente).
+
+## 2026-11-25 (noche)
+
+**Outliers del nicho (paso 10.2): ninguno nuevo comprobado.** vidiq.com (datos "as of 2026-11-25", ventana 26 oct–25 nov):
+1. **FaulesGaming** (11 Shorts): mediana 17,549 vistas (3× ≈ 52.6 k). Solo pasan los ya registrados, con vistas actualizadas: "The Best Game From Every Studio" (6 nov, 0:51) 87,488 (~5.0×) y "Games With the Most Swearing" (1 nov, 0:51) 56,696 (~3.2×). Lo más reciente, "Games With the Most Bosses" (22 nov, 0:22), tiene 5,161; los "Should You Play…?" de 0:15 siguen muy abajo (4.4–8.4 k).
+2. **TBs FACTs** (13 Shorts de 0:21–0:27, 26 oct–2 nov, títulos en hindi repetidos): mediana 31,555; máximo 41,141 (~1.3×). Ninguno cuenta.
+3. **Gaming Historian**: sin subidas en la ventana (última larga en abril 2026); la página no lista Shorts. No cuenta.
+Gancho exacto, texto del primer segundo y ritmo de tomas: no se pudieron ver (YouTube no se lee desde la sesión). Mitad en español: las búsquedas no dieron canales en español con vistas por video verificables.
+
+**Outliers propios (paso 10.3): sin datos.** Metricool (marca 8066507, YTVP01/YTVP06/YTVP08, 11–25 nov) devolvió solo filas del 11 y 12 nov con vistas vacías (null). El Short de Minecraft (25 nov 10:00) quedó en ERROR "You have reached your Metricool account limit".
+
+**Aprendizajes diarios:** sin cambios (no hay outliers nuevos; las 3 reglas siguen con 3 outliers; el refuerzo de FaulesGaming a ~5× confirma la regla 1).
+
+**Guiones nuevos para la cola:** `2026-11-26-1-pokemon-carino-te-salva.md` (serie "El juego te ayuda en secreto", fórmula el juego te engaña) y `2026-11-26-2-metroid-heroina-escondida.md` (fórmula iba a ser otra cosa). En Metroid se quitaron las horas exactas de cada final y el nombre de quien propuso la idea (las fuentes revisadas no los confirman).

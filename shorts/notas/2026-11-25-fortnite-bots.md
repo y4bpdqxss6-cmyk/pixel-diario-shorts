@@ -49,3 +49,6 @@ TÍTULO: Fortnite te pone bots si juegas mal 🤖
 DESCRIPCIÓN: Fortnite decide quién está en tu partida según cómo juegas, y no te dice quién es real. Serie: El juego te ayuda en secreto. #Fortnite #EpicGames #videojuegos #curiosidades #Shorts
 COMENTARIO FIJADO: ¿Te acuerdas de tu primera victoria?
 ETIQUETAS: fortnite, fortnite capitulo 2, bots fortnite, epic games, battle royale, emparejamiento, secretos de videojuegos, el juego te ayuda en secreto, curiosidades gamer, gaming
+
+Programado en Metricool: 2026-11-26 16:00 (America/New_York), post 442552049, estado PENDING al crearlo. ID de YouTube: lo asigna Metricool al publicar.
+**Ojo:** el Short de Minecraft (25 nov 10:00) falló con "You have reached your Metricool account limit"; este puede fallar igual a la hora de publicar.
