@@ -51,3 +51,5 @@ ETIQUETAS: assassin's creed, assassin's creed origins, doom, ubisoft, barra de v
 
 Programado en Metricool: 2026-11-25 16:00 (America/New_York), post 441148979, estado PENDING al crearlo. ID de YouTube: lo asigna Metricool al publicar.
 **Ojo:** al revisar getScheduledPosts, los 6 Shorts del 22 al 24 nov (incluido Zelda de hoy a las 10:00) quedaron en ERROR "You have reached your Metricool account limit"; este puede fallar igual a la hora de publicar.
+
+**NO PUBLICADO — quedó como borrador** (revisión 2026-11-26: post 441864418 en Metricool con `draft: true`, estado PENDING, fecha 25 nov 16:00 ya pasada). El .mp4 sigue en `shorts/`; publicar cuando se levante el límite de Metricool.

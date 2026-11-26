@@ -135,3 +135,36 @@ Donkey Kong (22 nov 10:00, post 437557326) · Mario Wii (22 nov 16:00, post 4371
 **Cambios aplicados:** reglas de "Aprendizajes de estadísticas" actualizadas (nueva regla: verificar el estado del post tras programar y qué hacer ante "account limit"). Notas de los 4 Shorts fallidos marcadas como NO PUBLICADO. No existe `shorts/temas.md`. Horas de las tareas sin cambios.
 
 **Próxima revisión:** confirmar que los 4 Shorts fallidos se publicaron (o reprogramaron) y que no hay nuevos ERROR; comparar vistas/día contra ~2,120 y subs contra 30.
+
+## 2026-11-26 — Revisión automática (Metricool, marca 8066507)
+
+**🚨 Incidente sin resolver y peor: el canal lleva 5 días sin Shorts nuevos.** Desde el 22 nov **ningún** Short se ha publicado. En Metricool (getScheduledPosts, 26 nov) hay **8 en ERROR "You have reached your Metricool account limit"**: Donkey Kong (22 nov 10:00) · Mario Wii (22 nov 16:00) · Los Sims (23 nov 10:00) · Max Payne (23 nov 16:00) · Zelda (24 nov 10:00) · The Last of Us (24 nov 16:00) · Minecraft (25 nov 10:00) · Fortnite (intento de publicación 25 nov 21:46). Assassin's Creed (25 nov 16:00, post 441864418) quedó como **borrador** (`draft: true`, PENDING): no saldrá solo. Los .mp4 de los 9 están en `shorts/`. Último publicado: GTA y Silent Hill (21 nov). Esto solo lo arregla Dany (plan/límite de Metricool o subir a mano en YouTube Studio).
+
+**Limitaciones:** el repo `noticias-bots` no se adjuntó (todo el trabajo vive en este repo `pixel-diario-shorts`; cruce con `shorts/notas/`). Metricool sigue con métricas por video en null ("published in range" y "all videos") y fuentes de tráfico vacías. Vistas diarias hasta el **23 nov**; suscriptores hasta el 26 nov.
+
+**Canal (datos diarios nuevos):**
+
+| Día | Vistas | Subs ganados | Subs perdidos | Shorts nuevos |
+|---|---|---|---|---|
+| 21 nov (sáb) | 3,243 | 2 | 1 | 2 (GTA, Silent Hill) |
+| 22 nov (dom) | 3,093 | 2 | 0 | 0 (fallaron) |
+| 23 nov (lun) | 1,707 | 2 | 0 | 0 (fallaron) |
+
+- Vistas 6–23 nov (todo lo disponible de los últimos 28 días): **44,191**. Últimos 7 días con datos (17–23 nov): **16,924** (~2,420/día) vs ~2,120/día en la revisión anterior (**+14 %**).
+- Suscriptores: **31** (26 nov) vs 30 el 23 nov: 32 el 24 y 25 nov, −1 el 26. Sin Shorts nuevos, el crecimiento de subs se frenó (+1 en 3 días).
+- Conversión 21–23 nov: ~0.6 subs netos por cada 1,000 vistas (7 − 1 / 8,043).
+
+**Hallazgos:**
+1. **El fin de semana 21–22 nov fue el mejor de la serie de datos** (3,243 y 3,093), el doble que el fin de semana anterior (1,160 / 1,723). Coincide con 2 Shorts de videojuegos muy conocidos (GTA y Silent Hill) el sábado. La regla "el fin de semana rinde la mitad" no se cumplió: se suaviza.
+2. **El lunes 23 nov cayó a 1,707** (−45 % vs el domingo), el segundo día sin Shorts nuevos. Primer indicio de que sin publicar, las vistas se apagan en 1–2 días: el catálogo viejo no sostiene el canal solo.
+3. **Horario confirmado otra vez:** Metricool (26 nov–2 dic, ET) marca 16:00 como pico todos los días y 10:00 como segundo. **Sin cambio de hora** en las tareas.
+
+**Ritmo hacia la meta (1,000 subs + 10 M vistas de Shorts en 90 días):**
+- Vistas: a ~2,420/día ≈ 218 k en 90 días = **2.2 %** de 10 M (harían falta ~111 k/día, ×46). Con 0 Shorts nuevos, ese ritmo va a bajar.
+- Subs: faltan 969; a ~1.1 netos/día (15 → 31 entre 12 y 26 nov) ≈ 29 meses.
+
+**Top/bottom:** sin métricas por video no hay ranking. A nivel día: mejor 8 nov (4,552), mejores recientes 21–22 nov (3,243 / 3,093); peor 11 nov (840, días de títulos con fecha) y 14 nov (1,160).
+
+**Cambios aplicados:** "Aprendizajes de estadísticas" reescritas (regla nueva: con el límite activo, seguir produciendo pero no crear más posts en Metricool que van a fallar; publicar los atrasados por orden cuando se arregle; fin de semana suavizado). Notas de Zelda, Minecraft y Fortnite marcadas NO PUBLICADO; Assassin's Creed marcado como borrador sin publicar. No existe `shorts/temas.md`. Horas de las tareas sin cambios.
+
+**Próxima revisión:** confirmar si el límite se levantó (¿se reinicia el 1 dic?) y si los 9 atrasados salieron; comparar vistas/día de los días sin Shorts contra ~2,420.

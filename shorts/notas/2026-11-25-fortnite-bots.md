@@ -52,3 +52,5 @@ ETIQUETAS: fortnite, fortnite capitulo 2, bots fortnite, epic games, battle roya
 
 Programado en Metricool: 2026-11-26 16:00 (America/New_York), post 442552049, estado PENDING al crearlo. ID de YouTube: lo asigna Metricool al publicar.
 **Ojo:** el Short de Minecraft (25 nov 10:00) falló con "You have reached your Metricool account limit"; este puede fallar igual a la hora de publicar.
+
+**NO PUBLICADO — límite de Metricool** (revisión 2026-11-26: el post de YouTube está en ERROR "You have reached your Metricool account limit"). El .mp4 sigue en `shorts/`; publicar cuando se levante el límite.

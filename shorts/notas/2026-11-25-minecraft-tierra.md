@@ -51,3 +51,5 @@ ETIQUETAS: minecraft, mundo de minecraft, borde del mundo, world border, mojang,
 
 Programado en Metricool: 2026-11-25 10:00 (America/New_York), post 441734139, estado PENDING al crearlo. ID de YouTube: lo asigna Metricool al publicar.
 **Ojo:** los Shorts del 22 al 24 nov fallaron con "You have reached your Metricool account limit"; este puede fallar igual a la hora de publicar.
+
+**NO PUBLICADO — límite de Metricool** (revisión 2026-11-26: el post de YouTube está en ERROR "You have reached your Metricool account limit"). El .mp4 sigue en `shorts/`; publicar cuando se levante el límite.
